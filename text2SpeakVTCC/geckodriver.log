@@ -1,0 +1,1090 @@
+1539328722813	geckodriver	INFO	geckodriver 0.21.0
+1539328722818	geckodriver	INFO	Listening on 127.0.0.1:33723
+1539328723822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NWIWEGzu5rwj"
+
+(firefox:7387): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7387): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539328727537	Marionette	INFO	Listening on port 38469
+1539328727635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539328727685	Marionette	DEBUG	[2147483649] Frame script loaded
+1539328727686	Marionette	DEBUG	[2147483649] Frame script registered
+1539328727704	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539328729715	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539328731666	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+1539328732706	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539328732707	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539328735054	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+[Parent 7387, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539328763467	Marionette	INFO	Stopped listening on port 38469
+1539328831892	geckodriver	INFO	geckodriver 0.21.0
+1539328831897	geckodriver	INFO	Listening on 127.0.0.1:38321
+1539328832901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.suuHxTXPAMXD"
+
+(firefox:7728): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7728): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539328836920	Marionette	INFO	Listening on port 36611
+1539328837012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539328837059	Marionette	DEBUG	[2147483649] Frame script loaded
+1539328837060	Marionette	DEBUG	[2147483649] Frame script registered
+1539328837076	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539328837199	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539328838690	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539328844022	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539328844023	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539328845143	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539328845413	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328845752	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328845977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328846208	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328846436	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328846674	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328846900	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328847121	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328847341	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328847559	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328847790	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328848014	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328848243	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328848468	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328848686	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328848905	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328849122	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328849351	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328849574	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328849796	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328850018	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328850237	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328850466	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328850695	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328850917	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328851140	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328851363	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328851595	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328851847	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328852071	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328852293	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328852514	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328852734	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328852957	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328853171	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328853389	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328853618	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328853841	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328854067	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328854287	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328854520	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328854739	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328854961	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328855181	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328855395	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328855617	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328855835	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328856051	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328856281	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328856504	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328856738	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328856970	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328857198	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328857432	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328857660	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328857882	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328858103	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328858321	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328858554	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328858775	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328859003	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328859221	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328859445	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328859689	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328859908	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328860132	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328860353	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328860574	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328860823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328861052	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328861272	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328861493	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328861711	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328861927	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328862148	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328862371	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328862591	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328862806	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328863023	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328863248	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328863468	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328863695	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328863911	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328864127	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328864346	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328864569	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328864792	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328865015	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328865241	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328865468	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328865691	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328865914	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328866136	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328866353	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328866570	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328866787	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328867004	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328867225	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328867445	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328867673	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328867897	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328868120	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328868350	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328868572	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328868800	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328869023	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328869247	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328869483	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328869808	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328870133	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328870475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328870769	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328871529	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328872020	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328872506	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328873253	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328873590	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328873851	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328874070	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328875216	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328875448	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328875672	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328875906	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328876135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328876365	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539328876565	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://vtcc.ai/asr
+1539328876567	Marionette	DEBUG	[2147483649] Received DOM event unload for https://vtcc.ai/asr
+1539328876591	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539328876592	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1539328877141	Marionette	INFO	Stopped listening on port 36611
+1539329088748	geckodriver	INFO	geckodriver 0.21.0
+1539329088753	geckodriver	INFO	Listening on 127.0.0.1:32997
+1539329088758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yhxgKUbMfPEC"
+
+(firefox:8277): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8277): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329092433	Marionette	INFO	Listening on port 46381
+1539329092474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329092527	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329092531	Marionette	DEBUG	[2147483649] Frame script registered
+1539329092550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329092703	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329092752	Marionette	DEBUG	[2147483649] Received DOM event unload for https://vtcc.ai/asr
+1539329092753	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1539329092777	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 8365, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1539329094340	Marionette	INFO	Stopped listening on port 46381
+1539329238604	geckodriver	INFO	geckodriver 0.21.0
+1539329238608	geckodriver	INFO	Listening on 127.0.0.1:46275
+1539329239611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RGegSC6HrqAb"
+
+(firefox:11049): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11049): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329243710	Marionette	INFO	Listening on port 44533
+1539329243736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329243783	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329243784	Marionette	DEBUG	[2147483649] Frame script registered
+1539329243813	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329243861	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329245153	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329250271	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329250272	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329250275	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539329281166	geckodriver	INFO	geckodriver 0.21.0
+1539329281171	geckodriver	INFO	Listening on 127.0.0.1:55481
+1539329282173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tKekccprZvT8"
+
+(firefox:11290): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11290): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[Parent 11049, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539329284800	Marionette	INFO	Stopped listening on port 44533
+1539329286275	Marionette	INFO	Listening on port 35217
+1539329286303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329286373	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329286375	Marionette	DEBUG	[2147483649] Frame script registered
+1539329286399	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329286539	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329288889	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329290857	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329290858	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329290911	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 11290, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539329305294	Marionette	INFO	Stopped listening on port 35217
+1539329440441	geckodriver	INFO	geckodriver 0.21.0
+1539329440447	geckodriver	INFO	Listening on 127.0.0.1:38079
+1539329441447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BnSd6EnQU3QW"
+
+(firefox:11880): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11880): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329444964	Marionette	INFO	Listening on port 45435
+1539329445056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329445104	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329445105	Marionette	DEBUG	[2147483649] Frame script registered
+1539329445124	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329446234	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329447737	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329448992	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329448993	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329452696	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 11880, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539329511818	Marionette	INFO	Stopped listening on port 45435
+1539329513340	geckodriver	INFO	geckodriver 0.21.0
+1539329513344	geckodriver	INFO	Listening on 127.0.0.1:60745
+1539329514349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AbnLNKvioJ4f"
+
+(firefox:12245): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12245): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329517970	Marionette	INFO	Listening on port 44941
+1539329518059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329518109	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329518110	Marionette	DEBUG	[2147483649] Frame script registered
+1539329518125	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329518213	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329520527	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329521446	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329521450	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329526442	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539329530391	Marionette	INFO	Stopped listening on port 44941
+1539329583815	geckodriver	INFO	geckodriver 0.21.0
+1539329583820	geckodriver	INFO	Listening on 127.0.0.1:55099
+1539329584824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.StPy9XIucQ4n"
+
+(firefox:12559): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12559): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329588535	Marionette	INFO	Listening on port 40187
+1539329588638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329588688	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329588689	Marionette	DEBUG	[2147483649] Frame script registered
+1539329588710	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329588797	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329590687	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329595213	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329595213	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329595449	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539329595702	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539329706289	geckodriver	INFO	geckodriver 0.21.0
+1539329706293	geckodriver	INFO	Listening on 127.0.0.1:40987
+1539329707295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3JthyK9edOch"
+
+(firefox:12895): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12895): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329711165	Marionette	INFO	Listening on port 35037
+1539329711226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329711280	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329711289	Marionette	DEBUG	[2147483649] Frame script registered
+1539329711317	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329711382	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329712823	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329713672	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329713674	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329713727	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 12895, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 12895, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539329815679	Marionette	INFO	Stopped listening on port 35037
+[Parent 12559, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539329819457	Marionette	INFO	Stopped listening on port 40187
+1539329874348	geckodriver	INFO	geckodriver 0.21.0
+1539329874353	geckodriver	INFO	Listening on 127.0.0.1:41683
+1539329875357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YuzT35wJfZ2S"
+
+(firefox:13365): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13365): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329879043	Marionette	INFO	Listening on port 42727
+1539329879078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329879135	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329879144	Marionette	DEBUG	[2147483649] Frame script registered
+1539329879174	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329879244	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329880798	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329882790	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329882791	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329882858	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539329958875	geckodriver	INFO	geckodriver 0.21.0
+1539329958879	geckodriver	INFO	Listening on 127.0.0.1:48035
+1539329959884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.afp3fgwmpE4I"
+
+(firefox:13678): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13678): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539329963479	Marionette	INFO	Listening on port 37851
+1539329963498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329963568	Marionette	DEBUG	[2147483649] Frame script loaded
+1539329963571	Marionette	DEBUG	[2147483649] Frame script registered
+1539329963589	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539329963700	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539329966079	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539329966900	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539329966901	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539329966943	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539330660772	geckodriver	INFO	geckodriver 0.21.0
+1539330660777	geckodriver	INFO	Listening on 127.0.0.1:47507
+1539330661775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WvXss0yOEjQV"
+
+(firefox:17293): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17293): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539330666356	Marionette	INFO	Listening on port 42763
+1539330666413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539330666466	Marionette	DEBUG	[2147483649] Frame script loaded
+1539330666467	Marionette	DEBUG	[2147483649] Frame script registered
+1539330666496	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539330668793	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539330669331	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539330671216	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539330671219	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539330671419	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 17293, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539330674967	Marionette	INFO	Stopped listening on port 42763
+1539330680153	Marionette	INFO	Stopped listening on port 42727
+[Parent 13678, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539330681361	Marionette	INFO	Stopped listening on port 37851
+1539330839967	geckodriver	INFO	geckodriver 0.21.0
+1539330839972	geckodriver	INFO	Listening on 127.0.0.1:52285
+1539330840974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7FaNxno6i4Kq"
+
+(firefox:6123): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6123): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539330845275	Marionette	INFO	Listening on port 44213
+1539330845290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539330845349	Marionette	DEBUG	[2147483649] Frame script loaded
+1539330845355	Marionette	DEBUG	[2147483649] Frame script registered
+1539330845387	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539330846905	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539330861348	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539330864823	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539330867613	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+[Parent 6123, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539330898637	Marionette	INFO	Stopped listening on port 44213
+1539330899714	geckodriver	INFO	geckodriver 0.21.0
+1539330899720	geckodriver	INFO	Listening on 127.0.0.1:52357
+1539330900720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DdGTWQgu1h0y"
+
+(firefox:13309): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13309): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539330905547	Marionette	INFO	Listening on port 45227
+1539330905631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539330905680	Marionette	DEBUG	[2147483649] Frame script loaded
+1539330905681	Marionette	DEBUG	[2147483649] Frame script registered
+1539330905696	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539330906641	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539330918367	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539330922729	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539330924901	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+1539330925154	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539330934177	Marionette	INFO	Stopped listening on port 45227
+1539330947603	geckodriver	INFO	geckodriver 0.21.0
+1539330947608	geckodriver	INFO	Listening on 127.0.0.1:57007
+1539330948610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NdOPrvaHig0v"
+
+(firefox:18959): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18959): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539330953302	Marionette	INFO	Listening on port 44591
+1539330953337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539330953416	Marionette	DEBUG	[2147483649] Frame script loaded
+1539330953419	Marionette	DEBUG	[2147483649] Frame script registered
+1539330953473	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539330955153	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539330960386	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539330964022	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539330964030	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+[Parent 18959, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539331009298	Marionette	INFO	Stopped listening on port 44591
+1539331011936	geckodriver	INFO	geckodriver 0.21.0
+1539331011940	geckodriver	INFO	Listening on 127.0.0.1:36031
+1539331012941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oHSjL52lM5JN"
+
+(firefox:26690): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26690): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539331017381	Marionette	INFO	Listening on port 36041
+1539331017461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539331017523	Marionette	DEBUG	[2147483649] Frame script loaded
+1539331017528	Marionette	DEBUG	[2147483649] Frame script registered
+1539331017548	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539331019055	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539331025538	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539331029729	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539331030792	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+[Parent 26690, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539331034426	Marionette	INFO	Stopped listening on port 36041
+1539331269298	geckodriver	INFO	geckodriver 0.21.0
+1539331269302	geckodriver	INFO	Listening on 127.0.0.1:32973
+1539331270304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j9QmPmYVBtm2"
+
+(firefox:24272): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24272): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539331274906	Marionette	INFO	Listening on port 35519
+1539331274919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539331275023	Marionette	DEBUG	[2147483649] Frame script loaded
+1539331275035	Marionette	DEBUG	[2147483649] Frame script registered
+1539331275056	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539331276369	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539331286779	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539331290307	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539331290835	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+1539331392560	geckodriver	INFO	geckodriver 0.21.0
+1539331392564	geckodriver	INFO	Listening on 127.0.0.1:55385
+1539331393566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qg7SwB7gBKBw"
+
+(firefox:28485): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28485): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539331397117	Marionette	INFO	Listening on port 39763
+1539331397190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539331397241	Marionette	DEBUG	[2147483649] Frame script loaded
+1539331397243	Marionette	DEBUG	[2147483649] Frame script registered
+1539331397258	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539331398021	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539331398021	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1539331398022	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1539331398048	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1539331399919	Marionette	INFO	Stopped listening on port 39763
+[Parent 24272, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539331401372	Marionette	INFO	Stopped listening on port 35519
+1539331409267	geckodriver	INFO	geckodriver 0.21.0
+1539331409272	geckodriver	INFO	Listening on 127.0.0.1:58395
+1539331410274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SpXzx5P9wO3U"
+
+(firefox:28694): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28694): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539331413757	Marionette	INFO	Listening on port 35057
+1539331413801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539331413858	Marionette	DEBUG	[2147483649] Frame script loaded
+1539331413900	Marionette	DEBUG	[2147483649] Frame script registered
+1539331413927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539331415566	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539331422610	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539331430058	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+[Parent 28694, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539331620750	Marionette	INFO	Stopped listening on port 35057
+1539331622089	geckodriver	INFO	geckodriver 0.21.0
+1539331622093	geckodriver	INFO	Listening on 127.0.0.1:36633
+1539331623098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3V4XiyXmGlnE"
+
+(firefox:29146): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29146): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539331626830	Marionette	INFO	Listening on port 32987
+1539331626916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539331626964	Marionette	DEBUG	[2147483649] Frame script loaded
+1539331626965	Marionette	DEBUG	[2147483649] Frame script registered
+1539331626979	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539331628679	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539331635732	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539331638048	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539331639636	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+1539331644889	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539331657162	Marionette	INFO	Stopped listening on port 32987
+1539332162795	geckodriver	INFO	geckodriver 0.21.0
+1539332162799	geckodriver	INFO	Listening on 127.0.0.1:37749
+1539332162804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RZ88rvhQYXPk"
+
+(firefox:30505): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30505): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539332166566	Marionette	INFO	Listening on port 44311
+1539332166618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539332166677	Marionette	DEBUG	[2147483649] Frame script loaded
+1539332166683	Marionette	DEBUG	[2147483649] Frame script registered
+1539332166716	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539332168168	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539332174766	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539332178326	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539332182335	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+1539332225438	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332249677	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332249905	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332264972	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332265221	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332265448	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539332319998	Marionette	DEBUG	[4294967297] Frame script loaded
+1539332319999	Marionette	DEBUG	[4294967297] Frame script registered
+1539332320032	Marionette	DEBUG	[4294967299] Frame script loaded
+1539332320032	Marionette	DEBUG	[4294967299] Frame script registered
+1539332321450	Marionette	INFO	Stopped listening on port 44311
+1539332332249	geckodriver	INFO	geckodriver 0.21.0
+1539332332253	geckodriver	INFO	Listening on 127.0.0.1:33999
+1539332333255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9WN5mJf3tYqa"
+
+(firefox:30989): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30989): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539332337021	Marionette	INFO	Listening on port 41733
+1539332337075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539332337142	Marionette	DEBUG	[2147483649] Frame script loaded
+1539332337151	Marionette	DEBUG	[2147483649] Frame script registered
+1539332337165	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539332338164	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539332343634	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539332346754	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483662
+1539332348178	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+1539332353443	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1539334353298	geckodriver	INFO	geckodriver 0.21.0
+1539334353302	geckodriver	INFO	Listening on 127.0.0.1:38663
+1539334354307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0ZwpMD6WXGAA"
+
+(firefox:1878): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1878): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334357994	Marionette	INFO	Listening on port 35499
+1539334358029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334358085	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334358091	Marionette	DEBUG	[2147483649] Frame script registered
+1539334358109	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334358279	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334358280	Marionette	DEBUG	[2147483649] Received DOM event unload for about:blank
+1539334358281	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1539334358303	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1539334360449	Marionette	INFO	Stopped listening on port 35499
+1539334410132	geckodriver	INFO	geckodriver 0.21.0
+1539334410136	geckodriver	INFO	Listening on 127.0.0.1:60937
+1539334411138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QI8wu6C8LmFa"
+
+(firefox:2287): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2287): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334415038	Marionette	INFO	Listening on port 45491
+1539334415049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334415098	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334415099	Marionette	DEBUG	[2147483649] Frame script registered
+1539334415121	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334415274	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334416824	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334416958	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334433252	geckodriver	INFO	geckodriver 0.21.0
+1539334433257	geckodriver	INFO	Listening on 127.0.0.1:50341
+1539334434258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uc1biNxF9ozl"
+
+(firefox:2492): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2492): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334437822	Marionette	INFO	Listening on port 33179
+1539334437875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334437931	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334437932	Marionette	DEBUG	[2147483649] Frame script registered
+1539334437957	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334438123	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334439698	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334439812	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334458390	Marionette	INFO	Stopped listening on port 33179
+[Parent 2287, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334461966	Marionette	INFO	Stopped listening on port 45491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539334464296	Marionette	INFO	Stopped listening on port 41733
+1539334469955	geckodriver	INFO	geckodriver 0.21.0
+1539334469959	geckodriver	INFO	Listening on 127.0.0.1:60253
+1539334470961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lFiFAdgRTiBs"
+
+(firefox:2752): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2752): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334474470	Marionette	INFO	Listening on port 34331
+1539334474571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334474617	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334474618	Marionette	DEBUG	[2147483649] Frame script registered
+1539334474634	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334474809	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334476279	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334477575	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+[Parent 2752, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334485223	Marionette	INFO	Stopped listening on port 34331
+1539334498955	geckodriver	INFO	geckodriver 0.21.0
+1539334498959	geckodriver	INFO	Listening on 127.0.0.1:56717
+1539334499963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TAACWVNCMP2y"
+
+(firefox:3043): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3043): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334503550	Marionette	INFO	Listening on port 45749
+1539334503574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334503626	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334503626	Marionette	DEBUG	[2147483649] Frame script registered
+1539334503648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334503849	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334505455	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334505611	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+[Parent 3043, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334510868	Marionette	INFO	Stopped listening on port 45749
+1539334615853	geckodriver	INFO	geckodriver 0.21.0
+1539334615857	geckodriver	INFO	Listening on 127.0.0.1:38019
+1539334616859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LA3zUFSg7LbA"
+
+(firefox:3562): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3562): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334620312	Marionette	INFO	Listening on port 37875
+1539334620375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334620424	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334620425	Marionette	DEBUG	[2147483649] Frame script registered
+1539334620442	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334620609	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334623281	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+1539334623454	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://nervgh.github.io/pages/angular-file-upload/examples/simple/
+[Parent 3562, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334627403	Marionette	INFO	Stopped listening on port 37875
+1539334639648	geckodriver	INFO	geckodriver 0.21.0
+1539334639652	geckodriver	INFO	Listening on 127.0.0.1:42123
+1539334640654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v31Uwx78f4vu"
+
+(firefox:3939): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3939): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334644063	Marionette	INFO	Listening on port 46697
+1539334644164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334644210	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334644211	Marionette	DEBUG	[2147483649] Frame script registered
+1539334644227	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334645641	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334652167	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://imgur.com/upload
+1539334656653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://imgur.com/upload
+[Parent 3939, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334672854	Marionette	INFO	Stopped listening on port 46697
+1539334867822	geckodriver	INFO	geckodriver 0.21.0
+1539334867827	geckodriver	INFO	Listening on 127.0.0.1:58737
+1539334868831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ksKCXSc7MSvV"
+
+(firefox:4714): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4714): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334872723	Marionette	INFO	Listening on port 43561
+1539334872746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334872795	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334872796	Marionette	DEBUG	[2147483649] Frame script registered
+1539334872818	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334874471	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334878222	Marionette	DEBUG	[2147483649] Received DOM event unload for https://imgur.com/upload
+1539334878225	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1539334878225	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4714, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539334878983	Marionette	INFO	Stopped listening on port 43561
+1539334888231	geckodriver	INFO	geckodriver 0.21.0
+1539334888235	geckodriver	INFO	Listening on 127.0.0.1:36755
+1539334889240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.unAtLXDpv3Ji"
+
+(firefox:4939): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4939): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334892771	Marionette	INFO	Listening on port 38549
+1539334892852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334892900	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334892901	Marionette	DEBUG	[2147483649] Frame script registered
+1539334892923	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334895210	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334896725	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539334902593	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539334902594	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539334902913	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539334943631	Marionette	INFO	Stopped listening on port 38549
+1539334945718	geckodriver	INFO	geckodriver 0.21.0
+1539334945723	geckodriver	INFO	Listening on 127.0.0.1:58613
+1539334946723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qz40N7Z3uuPo"
+
+(firefox:5206): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5206): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334950336	Marionette	INFO	Listening on port 34391
+1539334950436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334950485	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334950486	Marionette	DEBUG	[2147483649] Frame script registered
+1539334950501	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334951598	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539334953085	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539334954038	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539334954039	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539334958392	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539334992723	geckodriver	INFO	geckodriver 0.21.0
+1539334992727	geckodriver	INFO	Listening on 127.0.0.1:51237
+1539334993731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6VrJYPaHWqrw"
+
+(firefox:5442): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5442): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539334997306	Marionette	INFO	Listening on port 39683
+1539334997342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539334997391	Marionette	DEBUG	[2147483649] Frame script loaded
+1539334997392	Marionette	DEBUG	[2147483649] Frame script registered
+1539334997424	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539334998761	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539335000266	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539335001359	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539335001361	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539335001376	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 5442, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539335532856	Marionette	INFO	Stopped listening on port 39683
+[Parent 5206, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539335535391	Marionette	INFO	Stopped listening on port 34391
+1539335559096	geckodriver	INFO	geckodriver 0.21.0
+1539335559101	geckodriver	INFO	Listening on 127.0.0.1:58443
+1539335560105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RIbS89DszTnQ"
+
+(firefox:6495): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6495): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539335563854	Marionette	INFO	Listening on port 33221
+1539335563915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539335563964	Marionette	DEBUG	[2147483649] Frame script loaded
+1539335563968	Marionette	DEBUG	[2147483649] Frame script registered
+1539335563982	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539335564080	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539335565494	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539335568268	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539335568269	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539335568325	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 6495, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539335596721	Marionette	INFO	Stopped listening on port 33221
+1539335603206	geckodriver	INFO	geckodriver 0.21.0
+1539335603211	geckodriver	INFO	Listening on 127.0.0.1:60677
+1539335604215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qmERyon2TQ5m"
+
+(firefox:6738): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6738): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539335607766	Marionette	INFO	Listening on port 38347
+1539335607828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539335607884	Marionette	DEBUG	[2147483649] Frame script loaded
+1539335607885	Marionette	DEBUG	[2147483649] Frame script registered
+1539335607905	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539335607956	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539335609472	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539335612239	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539335612239	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539335612292	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+[Parent 6738, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539335664972	Marionette	INFO	Stopped listening on port 38347
+1539336453644	geckodriver	INFO	geckodriver 0.21.0
+1539336453648	geckodriver	INFO	Listening on 127.0.0.1:38777
+1539336454652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HjjZm15mVluS"
+1539336454787	addons.manager	DEBUG	Application has been upgraded
+1539336454795	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1539336454798	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1539336454813	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1539336454815	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1539336454815	addons.manager	DEBUG	Starting provider: XPIProvider
+1539336454816	addons.xpi	DEBUG	startup
+1539336454817	addons.xpi	INFO	SystemAddonLocation directory is missing
+1539336454826	addons.xpi	INFO	Removing all system add-on upgrades.
+1539336454826	addons.xpi	DEBUG	checkForChanges
+1539336454827	addons.xpi	DEBUG	Loaded add-on state: ${}
+1539336454827	addons.xpi	DEBUG	New add-on activity-stream@mozilla.org in app-system-defaults
+1539336454828	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1539336454829	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1539336454829	addons.xpi	DEBUG	New add-on formautofill@mozilla.org in app-system-defaults
+1539336454830	addons.xpi	DEBUG	New add-on onboarding@mozilla.org in app-system-defaults
+1539336454830	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1539336454830	addons.xpi	DEBUG	New add-on webcompat-reporter@mozilla.org in app-system-defaults
+1539336454830	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1539336454831	addons.xpi	DEBUG	New add-on langpack-en-CA@firefox.mozilla.org in app-global
+1539336454832	addons.xpi	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org in app-global
+1539336454832	addons.xpi	DEBUG	New add-on langpack-vi@firefox.mozilla.org in app-global
+1539336454832	addons.xpi	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1539336454832	addons.xpi	DEBUG	scanForChanges changed: true, state: {}
+1539336454838	addons.xpi-utils	DEBUG	Error: Synchronously loading the add-ons database (resource://gre/modules/addons/XPIDatabase.jsm:1329:15) JS Stack trace: syncLoadDB@XPIDatabase.jsm:1329:15
+checkForChanges@XPIProvider.jsm:2537:9
+startup@XPIProvider.jsm:2120:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2811:5
+observe@addonManager.js:66:9
+1539336454839	addons.xpi-utils	DEBUG	Starting async load of XPI database /tmp/rust_mozprofile.HjjZm15mVluS/extensions.json
+1539336454865	addons.xpi-utils	DEBUG	New add-on activity-stream@mozilla.org installed in app-system-defaults
+*** Blocklist::_preloadBlocklistFile: blocklist is disabled
+1539336455330	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+1539336455335	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1539336455339	addons.xpi-utils	DEBUG	New add-on formautofill@mozilla.org installed in app-system-defaults
+1539336455342	addons.xpi-utils	DEBUG	New add-on onboarding@mozilla.org installed in app-system-defaults
+1539336455345	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1539336455349	addons.xpi-utils	DEBUG	New add-on webcompat-reporter@mozilla.org installed in app-system-defaults
+1539336455352	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1539336455470	addons.xpi-utils	DEBUG	New add-on langpack-en-CA@firefox.mozilla.org installed in app-global
+1539336455479	addons.xpi-utils	DEBUG	New add-on langpack-en-GB@firefox.mozilla.org installed in app-global
+1539336455480	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 27
+1539336455485	addons.xpi-utils	DEBUG	New add-on langpack-vi@firefox.mozilla.org installed in app-global
+1539336455491	addons.xpi-utils	DEBUG	New add-on langpack-en-ZA@firefox.mozilla.org installed in app-global
+1539336455496	addons.manager	DEBUG	Registering startup change 'installed' for activity-stream@mozilla.org
+1539336455502	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1539336455503	addons.xpi	DEBUG	Calling bootstrap method install on activity-stream@mozilla.org version 2018.08.22.1219-93becf29
+1539336455503	addons.xpi-utils	DEBUG	Make addon app-system-defaults:activity-stream@mozilla.org visible
+1539336455504	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{b3b15255-1e51-42b6-8d78-ec9dadcd99e5}","version":"2018.08.22.1219-93becf29","type":"extension","defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox."},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455504	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1539336455504	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1539336455506	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1539336455506	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1539336455506	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{b3004d2e-b2ca-4c4d-885e-d068d30ec9ed}","version":"2.0","type":"extension","defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks."},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455506	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1539336455506	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1539336455510	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1539336455510	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1539336455511	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{1bf68384-3dfe-43da-9815-a72b486c7b28}","version":"1.0.5","type":"extension","defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket."},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455511	addons.manager	DEBUG	Registering startup change 'installed' for formautofill@mozilla.org
+1539336455511	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1539336455512	addons.xpi	DEBUG	Calling bootstrap method install on formautofill@mozilla.org version 1.0
+1539336455512	addons.xpi-utils	DEBUG	Make addon app-system-defaults:formautofill@mozilla.org visible
+1539336455512	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{7df724ce-c748-4039-8514-dcd1d8c0425b}","version":"1.0","type":"extension","defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455513	addons.manager	DEBUG	Registering startup change 'installed' for onboarding@mozilla.org
+1539336455513	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1539336455515	addons.xpi	DEBUG	Calling bootstrap method install on onboarding@mozilla.org version 1.0
+1539336455515	addons.xpi-utils	DEBUG	Make addon app-system-defaults:onboarding@mozilla.org visible
+1539336455515	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{5f60b196-263c-466e-ac19-076fda9e4718}","version":"1.0","type":"extension","defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455515	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1539336455515	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1539336455517	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 33.0.0
+1539336455517	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1539336455517	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{306676cc-f8f1-48cb-be82-89b3a8dd9678}","version":"33.0.0","type":"extension","defaultLocale":{"name":"Firefox Screenshots","homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455517	addons.manager	DEBUG	Registering startup change 'installed' for webcompat-reporter@mozilla.org
+1539336455517	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat-reporter@mozilla.org.xpi
+1539336455518	addons.xpi	DEBUG	Calling bootstrap method install on webcompat-reporter@mozilla.org version 1.0.0
+1539336455519	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat-reporter@mozilla.org visible
+1539336455519	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat-reporter@mozilla.org","syncGUID":"{d68a9f68-972a-412c-8bb5-6bd334fbffff}","version":"1.0.0","type":"extension","defaultLocale":{"name":"WebCompat Reporter","description":"Report site compatibility issues on webcompat.com."},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527114000,"updateDate":1538527114000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/webcompat-reporter@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455519	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1539336455519	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1539336455520	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 2.0
+1539336455520	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1539336455521	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{b9eb0ba3-f67e-4e1b-927d-0fc3ce252263}","version":"2.0","type":"extension","defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility."},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538527114000,"updateDate":1538527114000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"},{"id":"{aa3c5121-dab2-40e2-81ca-7ea25febc110}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455521	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-CA@firefox.mozilla.org
+1539336455521	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-en-CA@firefox.mozilla.org.xpi
+1539336455521	addons.xpi	DEBUG	Calling bootstrap method install on langpack-en-CA@firefox.mozilla.org version 62.0
+1539336455521	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-CA@firefox.mozilla.org visible
+1539336455521	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-CA@firefox.mozilla.org","syncGUID":"{9d25faa6-194a-42e0-95df-ca2bb126ebb8}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (CA) Language Pack","description":"Language pack for Firefox for en-CA","creator":"mozilla.org","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-CA@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-CA","chrome/en-CA/locale/en-CA/necko/"],["locale","pdf.js","en-CA","browser/chrome/en-CA/locale/pdfviewer/"],["locale","global","en-CA","chrome/en-CA/locale/en-CA/global/"],["locale","onboarding","en-CA","browser/features/onboarding@mozilla.org/en-CA/locale/en-CA/"],["locale","devtools","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/client/"],["locale","pipnss","en-CA","chrome/en-CA/locale/en-CA/pipnss/"],["locale","alerts","en-CA","chrome/en-CA/locale/en-CA/alerts/"],["locale","devtools-startup","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/startup/"],["locale","branding","en-CA","browser/chrome/en-CA/locale/branding/"],["locale","autoconfig","en-CA","chrome/en-CA/locale/en-CA/autoconfig/"],["locale","devtools-shared","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/shared/"],["locale","global-platform","en-CA","chrome/en-CA/locale/en-CA/global-platform/unix/"],["locale","browser-region","en-CA","browser/chrome/en-CA/locale/browser-region/"],["locale","mozapps","en-CA","chrome/en-CA/locale/en-CA/mozapps/"],["locale","pluginproblem","en-CA","chrome/en-CA/locale/en-CA/pluginproblem/"],["locale","formautofill","en-CA","browser/features/formautofill@mozilla.org/en-CA/locale/en-CA/"],["locale","weave","en-CA","chrome/en-CA/locale/en-CA/services/"],["locale","pocket","en-CA","browser/features/firefox@getpocket.com/en-CA/locale/en-CA/"],["locale","places","en-CA","chrome/en-CA/locale/en-CA/places/"],["locale","passwordmgr","en-CA","chrome/en-CA/locale/en-CA/passwordmgr/"],["locale","pippki","en-CA","chrome/en-CA/locale/en-CA/pippki/"],["locale","webcompat-reporter","en-CA","browser/features/webcompat-reporter@mozilla.org/en-CA/locale/en-CA/"],["locale","browser","en-CA","browser/chrome/en-CA/locale/browser/"]],"langpackId":"langpack-en-CA-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-CA"]},"location":"app-global"}
+1539336455522	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-GB@firefox.mozilla.org
+1539336455522	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+1539336455522	addons.xpi	DEBUG	Calling bootstrap method install on langpack-en-GB@firefox.mozilla.org version 62.0
+1539336455522	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-GB@firefox.mozilla.org visible
+1539336455522	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{475ab73a-4bd8-4017-bea8-ed0660dfbaf1}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":"Language pack for Firefox for en-GB","creator":"Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-GB","chrome/en-GB/locale/en-GB/necko/"],["locale","pdf.js","en-GB","browser/chrome/en-GB/locale/pdfviewer/"],["locale","global","en-GB","chrome/en-GB/locale/en-GB/global/"],["locale","onboarding","en-GB","browser/features/onboarding@mozilla.org/en-GB/locale/en-GB/"],["locale","devtools","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/client/"],["locale","pipnss","en-GB","chrome/en-GB/locale/en-GB/pipnss/"],["locale","alerts","en-GB","chrome/en-GB/locale/en-GB/alerts/"],["locale","devtools-startup","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/startup/"],["locale","branding","en-GB","browser/chrome/en-GB/locale/branding/"],["locale","autoconfig","en-GB","chrome/en-GB/locale/en-GB/autoconfig/"],["locale","devtools-shared","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shared/"],["locale","global-platform","en-GB","chrome/en-GB/locale/en-GB/global-platform/unix/"],["locale","browser-region","en-GB","browser/chrome/en-GB/locale/browser-region/"],["locale","mozapps","en-GB","chrome/en-GB/locale/en-GB/mozapps/"],["locale","pluginproblem","en-GB","chrome/en-GB/locale/en-GB/pluginproblem/"],["locale","formautofill","en-GB","browser/features/formautofill@mozilla.org/en-GB/locale/en-GB/"],["locale","weave","en-GB","chrome/en-GB/locale/en-GB/services/"],["locale","pocket","en-GB","browser/features/firefox@getpocket.com/en-GB/locale/en-GB/"],["locale","places","en-GB","chrome/en-GB/locale/en-GB/places/"],["locale","passwordmgr","en-GB","chrome/en-GB/locale/en-GB/passwordmgr/"],["locale","pippki","en-GB","chrome/en-GB/locale/en-GB/pippki/"],["locale","webcompat-reporter","en-GB","browser/features/webcompat-reporter@mozilla.org/en-GB/locale/en-GB/"],["locale","browser","en-GB","browser/chrome/en-GB/locale/browser/"]],"langpackId":"langpack-en-GB-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-GB"]},"location":"app-global"}
+1539336455523	addons.manager	DEBUG	Registering startup change 'installed' for langpack-vi@firefox.mozilla.org
+1539336455524	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-vi@firefox.mozilla.org.xpi
+1539336455524	addons.xpi	DEBUG	Calling bootstrap method install on langpack-vi@firefox.mozilla.org version 62.0
+1539336455524	addons.xpi-utils	DEBUG	Make addon app-global:langpack-vi@firefox.mozilla.org visible
+1539336455524	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-vi@firefox.mozilla.org","syncGUID":"{2c2774c0-2156-4021-be8c-4d66afdfd4ca}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"Tiếng Việt Language Pack","description":"Language pack for Firefox for vi","creator":"Cộng đồng bản địa hóa Mozilla (contributors: Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh)","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538530202000,"updateDate":1538530202000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-vi@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","vi","chrome/vi/locale/vi/necko/"],["locale","pdf.js","vi","browser/chrome/vi/locale/pdfviewer/"],["locale","global","vi","chrome/vi/locale/vi/global/"],["locale","onboarding","vi","browser/features/onboarding@mozilla.org/vi/locale/vi/"],["locale","devtools","vi","browser/chrome/vi/locale/vi/devtools/client/"],["locale","pipnss","vi","chrome/vi/locale/vi/pipnss/"],["locale","alerts","vi","chrome/vi/locale/vi/alerts/"],["locale","devtools-startup","vi","browser/chrome/vi/locale/vi/devtools/startup/"],["locale","branding","vi","browser/chrome/vi/locale/branding/"],["locale","autoconfig","vi","chrome/vi/locale/vi/autoconfig/"],["locale","devtools-shared","vi","browser/chrome/vi/locale/vi/devtools/shared/"],["locale","global-platform","vi","chrome/vi/locale/vi/global-platform/unix/"],["locale","browser-region","vi","browser/chrome/vi/locale/browser-region/"],["locale","mozapps","vi","chrome/vi/locale/vi/mozapps/"],["locale","pluginproblem","vi","chrome/vi/locale/vi/pluginproblem/"],["locale","formautofill","vi","browser/features/formautofill@mozilla.org/vi/locale/vi/"],["locale","weave","vi","chrome/vi/locale/vi/services/"],["locale","pocket","vi","browser/features/firefox@getpocket.com/vi/locale/vi/"],["locale","places","vi","chrome/vi/locale/vi/places/"],["locale","passwordmgr","vi","chrome/vi/locale/vi/passwordmgr/"],["locale","pippki","vi","chrome/vi/locale/vi/pippki/"],["locale","webcompat-reporter","vi","browser/features/webcompat-reporter@mozilla.org/vi/locale/vi/"],["locale","browser","vi","browser/chrome/vi/locale/browser/"]],"langpackId":"langpack-vi-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["vi"]},"location":"app-global"}
+1539336455525	addons.manager	DEBUG	Registering startup change 'installed' for langpack-en-ZA@firefox.mozilla.org
+1539336455525	addons.xpi	DEBUG	Loading bootstrap scope from /usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi
+1539336455525	addons.xpi	DEBUG	Calling bootstrap method install on langpack-en-ZA@firefox.mozilla.org version 62.0
+1539336455525	addons.xpi-utils	DEBUG	Make addon app-global:langpack-en-ZA@firefox.mozilla.org visible
+1539336455525	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{173ef404-5f7f-48a0-ac30-65caccea32d5}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":"Language pack for Firefox for en-ZA","creator":"Translate.org.za (contributors: Translate.org.za, Dwayne Bailey)","developers":null,"translators":null,"contributors":null},"visible":true,"active":false,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-ZA","chrome/en-ZA/locale/en-ZA/necko/"],["locale","pdf.js","en-ZA","browser/chrome/en-ZA/locale/pdfviewer/"],["locale","global","en-ZA","chrome/en-ZA/locale/en-ZA/global/"],["locale","onboarding","en-ZA","browser/features/onboarding@mozilla.org/en-ZA/locale/en-ZA/"],["locale","devtools","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/client/"],["locale","pipnss","en-ZA","chrome/en-ZA/locale/en-ZA/pipnss/"],["locale","alerts","en-ZA","chrome/en-ZA/locale/en-ZA/alerts/"],["locale","devtools-startup","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/startup/"],["locale","branding","en-ZA","browser/chrome/en-ZA/locale/branding/"],["locale","autoconfig","en-ZA","chrome/en-ZA/locale/en-ZA/autoconfig/"],["locale","devtools-shared","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shared/"],["locale","global-platform","en-ZA","chrome/en-ZA/locale/en-ZA/global-platform/unix/"],["locale","browser-region","en-ZA","browser/chrome/en-ZA/locale/browser-region/"],["locale","mozapps","en-ZA","chrome/en-ZA/locale/en-ZA/mozapps/"],["locale","pluginproblem","en-ZA","chrome/en-ZA/locale/en-ZA/pluginproblem/"],["locale","formautofill","en-ZA","browser/features/formautofill@mozilla.org/en-ZA/locale/en-ZA/"],["locale","weave","en-ZA","chrome/en-ZA/locale/en-ZA/services/"],["locale","pocket","en-ZA","browser/features/firefox@getpocket.com/en-ZA/locale/en-ZA/"],["locale","places","en-ZA","chrome/en-ZA/locale/en-ZA/places/"],["locale","passwordmgr","en-ZA","chrome/en-ZA/locale/en-ZA/passwordmgr/"],["locale","pippki","en-ZA","chrome/en-ZA/locale/en-ZA/pippki/"],["locale","webcompat-reporter","en-ZA","browser/features/webcompat-reporter@mozilla.org/en-ZA/locale/en-ZA/"],["locale","browser","en-ZA","browser/chrome/en-ZA/locale/browser/"]],"langpackId":"langpack-en-ZA-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-ZA"]},"location":"app-global"}
+1539336455525	addons.xpi	DEBUG	Updating XPIState for {"id":"activity-stream@mozilla.org","syncGUID":"{b3b15255-1e51-42b6-8d78-ec9dadcd99e5}","version":"2018.08.22.1219-93becf29","type":"extension","defaultLocale":{"name":"Activity Stream","description":"A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you're looking for in Firefox."},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455526	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{b3004d2e-b2ca-4c4d-885e-d068d30ec9ed}","version":"2.0","type":"extension","defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks."},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455526	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{1bf68384-3dfe-43da-9815-a72b486c7b28}","version":"1.0.5","type":"extension","defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket."},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/firefox@getpocket.com.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455526	addons.xpi	DEBUG	Updating XPIState for {"id":"formautofill@mozilla.org","syncGUID":"{7df724ce-c748-4039-8514-dcd1d8c0425b}","version":"1.0","type":"extension","defaultLocale":{"name":"Form Autofill","description":"Autofill forms with saved profiles"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455526	addons.xpi	DEBUG	Updating XPIState for {"id":"onboarding@mozilla.org","syncGUID":"{5f60b196-263c-466e-ac19-076fda9e4718}","version":"1.0","type":"extension","defaultLocale":{"name":"Photon onboarding","description":"Photon onboarding"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{306676cc-f8f1-48cb-be82-89b3a8dd9678}","version":"33.0.0","type":"extension","defaultLocale":{"name":"Firefox Screenshots","homepageURL":"https://screenshots.firefox.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527113000,"updateDate":1538527113000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"57.0a1","maxVersion":"*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat-reporter@mozilla.org","syncGUID":"{d68a9f68-972a-412c-8bb5-6bd334fbffff}","version":"1.0.0","type":"extension","defaultLocale":{"name":"WebCompat Reporter","description":"Report site compatibility issues on webcompat.com."},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527114000,"updateDate":1538527114000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/webcompat-reporter@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{b9eb0ba3-f67e-4e1b-927d-0fc3ce252263}","version":"2.0","type":"extension","defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility."},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538527114000,"updateDate":1538527114000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"62.0.3","maxVersion":"62.*"},{"id":"{aa3c5121-dab2-40e2-81ca-7ea25febc110}","minVersion":"62.0.3","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":true,"userPermissions":null,"icons":{},"blocklistState":0,"blocklistURL":null,"startupData":null,"location":"app-system-defaults"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-CA@firefox.mozilla.org","syncGUID":"{9d25faa6-194a-42e0-95df-ca2bb126ebb8}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (CA) Language Pack","description":"Language pack for Firefox for en-CA","creator":"mozilla.org","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-CA@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-CA","chrome/en-CA/locale/en-CA/necko/"],["locale","pdf.js","en-CA","browser/chrome/en-CA/locale/pdfviewer/"],["locale","global","en-CA","chrome/en-CA/locale/en-CA/global/"],["locale","onboarding","en-CA","browser/features/onboarding@mozilla.org/en-CA/locale/en-CA/"],["locale","devtools","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/client/"],["locale","pipnss","en-CA","chrome/en-CA/locale/en-CA/pipnss/"],["locale","alerts","en-CA","chrome/en-CA/locale/en-CA/alerts/"],["locale","devtools-startup","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/startup/"],["locale","branding","en-CA","browser/chrome/en-CA/locale/branding/"],["locale","autoconfig","en-CA","chrome/en-CA/locale/en-CA/autoconfig/"],["locale","devtools-shared","en-CA","browser/chrome/en-CA/locale/en-CA/devtools/shared/"],["locale","global-platform","en-CA","chrome/en-CA/locale/en-CA/global-platform/unix/"],["locale","browser-region","en-CA","browser/chrome/en-CA/locale/browser-region/"],["locale","mozapps","en-CA","chrome/en-CA/locale/en-CA/mozapps/"],["locale","pluginproblem","en-CA","chrome/en-CA/locale/en-CA/pluginproblem/"],["locale","formautofill","en-CA","browser/features/formautofill@mozilla.org/en-CA/locale/en-CA/"],["locale","weave","en-CA","chrome/en-CA/locale/en-CA/services/"],["locale","pocket","en-CA","browser/features/firefox@getpocket.com/en-CA/locale/en-CA/"],["locale","places","en-CA","chrome/en-CA/locale/en-CA/places/"],["locale","passwordmgr","en-CA","chrome/en-CA/locale/en-CA/passwordmgr/"],["locale","pippki","en-CA","chrome/en-CA/locale/en-CA/pippki/"],["locale","webcompat-reporter","en-CA","browser/features/webcompat-reporter@mozilla.org/en-CA/locale/en-CA/"],["locale","browser","en-CA","browser/chrome/en-CA/locale/browser/"]],"langpackId":"langpack-en-CA-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-CA"]},"location":"app-global"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-GB@firefox.mozilla.org","syncGUID":"{475ab73a-4bd8-4017-bea8-ed0660dfbaf1}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (GB) Language Pack","description":"Language pack for Firefox for en-GB","creator":"Mark Tyndall (contributors: David Bartlett, Constantine Murenin, Ian Neal)","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-GB@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-GB","chrome/en-GB/locale/en-GB/necko/"],["locale","pdf.js","en-GB","browser/chrome/en-GB/locale/pdfviewer/"],["locale","global","en-GB","chrome/en-GB/locale/en-GB/global/"],["locale","onboarding","en-GB","browser/features/onboarding@mozilla.org/en-GB/locale/en-GB/"],["locale","devtools","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/client/"],["locale","pipnss","en-GB","chrome/en-GB/locale/en-GB/pipnss/"],["locale","alerts","en-GB","chrome/en-GB/locale/en-GB/alerts/"],["locale","devtools-startup","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/startup/"],["locale","branding","en-GB","browser/chrome/en-GB/locale/branding/"],["locale","autoconfig","en-GB","chrome/en-GB/locale/en-GB/autoconfig/"],["locale","devtools-shared","en-GB","browser/chrome/en-GB/locale/en-GB/devtools/shared/"],["locale","global-platform","en-GB","chrome/en-GB/locale/en-GB/global-platform/unix/"],["locale","browser-region","en-GB","browser/chrome/en-GB/locale/browser-region/"],["locale","mozapps","en-GB","chrome/en-GB/locale/en-GB/mozapps/"],["locale","pluginproblem","en-GB","chrome/en-GB/locale/en-GB/pluginproblem/"],["locale","formautofill","en-GB","browser/features/formautofill@mozilla.org/en-GB/locale/en-GB/"],["locale","weave","en-GB","chrome/en-GB/locale/en-GB/services/"],["locale","pocket","en-GB","browser/features/firefox@getpocket.com/en-GB/locale/en-GB/"],["locale","places","en-GB","chrome/en-GB/locale/en-GB/places/"],["locale","passwordmgr","en-GB","chrome/en-GB/locale/en-GB/passwordmgr/"],["locale","pippki","en-GB","chrome/en-GB/locale/en-GB/pippki/"],["locale","webcompat-reporter","en-GB","browser/features/webcompat-reporter@mozilla.org/en-GB/locale/en-GB/"],["locale","browser","en-GB","browser/chrome/en-GB/locale/browser/"]],"langpackId":"langpack-en-GB-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-GB"]},"location":"app-global"}
+1539336455527	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-vi@firefox.mozilla.org","syncGUID":"{2c2774c0-2156-4021-be8c-4d66afdfd4ca}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"Tiếng Việt Language Pack","description":"Language pack for Firefox for vi","creator":"Cộng đồng bản địa hóa Mozilla (contributors: Nguyễn Mạnh Hùng, Nguyễn Xuân Minh, Huỳnh Hải Đăng, Bùi Việt Khoa, Trần Nguyễn Sơn, Ngô Đức Trung, Nguyễn Hà Dương, Nguyễn Phan Hải, Đặng Duy Thanh)","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538530202000,"updateDate":1538530202000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-vi@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","vi","chrome/vi/locale/vi/necko/"],["locale","pdf.js","vi","browser/chrome/vi/locale/pdfviewer/"],["locale","global","vi","chrome/vi/locale/vi/global/"],["locale","onboarding","vi","browser/features/onboarding@mozilla.org/vi/locale/vi/"],["locale","devtools","vi","browser/chrome/vi/locale/vi/devtools/client/"],["locale","pipnss","vi","chrome/vi/locale/vi/pipnss/"],["locale","alerts","vi","chrome/vi/locale/vi/alerts/"],["locale","devtools-startup","vi","browser/chrome/vi/locale/vi/devtools/startup/"],["locale","branding","vi","browser/chrome/vi/locale/branding/"],["locale","autoconfig","vi","chrome/vi/locale/vi/autoconfig/"],["locale","devtools-shared","vi","browser/chrome/vi/locale/vi/devtools/shared/"],["locale","global-platform","vi","chrome/vi/locale/vi/global-platform/unix/"],["locale","browser-region","vi","browser/chrome/vi/locale/browser-region/"],["locale","mozapps","vi","chrome/vi/locale/vi/mozapps/"],["locale","pluginproblem","vi","chrome/vi/locale/vi/pluginproblem/"],["locale","formautofill","vi","browser/features/formautofill@mozilla.org/vi/locale/vi/"],["locale","weave","vi","chrome/vi/locale/vi/services/"],["locale","pocket","vi","browser/features/firefox@getpocket.com/vi/locale/vi/"],["locale","places","vi","chrome/vi/locale/vi/places/"],["locale","passwordmgr","vi","chrome/vi/locale/vi/passwordmgr/"],["locale","pippki","vi","chrome/vi/locale/vi/pippki/"],["locale","webcompat-reporter","vi","browser/features/webcompat-reporter@mozilla.org/vi/locale/vi/"],["locale","browser","vi","browser/chrome/vi/locale/browser/"]],"langpackId":"langpack-vi-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["vi"]},"location":"app-global"}
+1539336455528	addons.xpi	DEBUG	Updating XPIState for {"id":"langpack-en-ZA@firefox.mozilla.org","syncGUID":"{173ef404-5f7f-48a0-ac30-65caccea32d5}","version":"62.0","type":"webextension-langpack","updateURL":null,"optionsURL":null,"optionsType":null,"optionsBrowserStyle":true,"aboutURL":null,"defaultLocale":{"name":"English (South Africa) Language Pack","description":"Language pack for Firefox for en-ZA","creator":"Translate.org.za (contributors: Translate.org.za, Dwayne Bailey)","developers":null,"translators":null,"contributors":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"installDate":1538529948000,"updateDate":1538529948000,"applyBackgroundUpdates":1,"path":"/usr/lib/firefox/browser/extensions/langpack-en-ZA@firefox.mozilla.org.xpi","skinnable":false,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":true,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":"62.0","maxVersion":"62.*"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null,"icons":{},"iconURL":null,"icon64URL":null,"blocklistState":0,"blocklistURL":null,"startupData":{"chromeEntries":[["locale","necko","en-ZA","chrome/en-ZA/locale/en-ZA/necko/"],["locale","pdf.js","en-ZA","browser/chrome/en-ZA/locale/pdfviewer/"],["locale","global","en-ZA","chrome/en-ZA/locale/en-ZA/global/"],["locale","onboarding","en-ZA","browser/features/onboarding@mozilla.org/en-ZA/locale/en-ZA/"],["locale","devtools","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/client/"],["locale","pipnss","en-ZA","chrome/en-ZA/locale/en-ZA/pipnss/"],["locale","alerts","en-ZA","chrome/en-ZA/locale/en-ZA/alerts/"],["locale","devtools-startup","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/startup/"],["locale","branding","en-ZA","browser/chrome/en-ZA/locale/branding/"],["locale","autoconfig","en-ZA","chrome/en-ZA/locale/en-ZA/autoconfig/"],["locale","devtools-shared","en-ZA","browser/chrome/en-ZA/locale/en-ZA/devtools/shared/"],["locale","global-platform","en-ZA","chrome/en-ZA/locale/en-ZA/global-platform/unix/"],["locale","browser-region","en-ZA","browser/chrome/en-ZA/locale/browser-region/"],["locale","mozapps","en-ZA","chrome/en-ZA/locale/en-ZA/mozapps/"],["locale","pluginproblem","en-ZA","chrome/en-ZA/locale/en-ZA/pluginproblem/"],["locale","formautofill","en-ZA","browser/features/formautofill@mozilla.org/en-ZA/locale/en-ZA/"],["locale","weave","en-ZA","chrome/en-ZA/locale/en-ZA/services/"],["locale","pocket","en-ZA","browser/features/firefox@getpocket.com/en-ZA/locale/en-ZA/"],["locale","places","en-ZA","chrome/en-ZA/locale/en-ZA/places/"],["locale","passwordmgr","en-ZA","chrome/en-ZA/locale/en-ZA/passwordmgr/"],["locale","pippki","en-ZA","chrome/en-ZA/locale/en-ZA/pippki/"],["locale","webcompat-reporter","en-ZA","browser/features/webcompat-reporter@mozilla.org/en-ZA/locale/en-ZA/"],["locale","browser","en-ZA","browser/chrome/en-ZA/locale/browser/"]],"langpackId":"langpack-en-ZA-browser","l10nRegistrySources":{"browser":"browser/"},"languages":["en-ZA"]},"location":"app-global"}
+1539336455528	addons.xpi-utils	DEBUG	Updating add-on states
+1539336455531	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi
+1539336455531	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2018.08.22.1219-93becf29
+1539336455532	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/aushelper@mozilla.org.xpi
+1539336455532	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1539336455532	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/firefox@getpocket.com.xpi
+1539336455533	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1539336455538	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/formautofill@mozilla.org.xpi
+1539336455539	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1539336455540	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-en-CA@firefox.mozilla.org version 62.0
+1539336455544	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-en-GB@firefox.mozilla.org version 62.0
+1539336455545	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-en-ZA@firefox.mozilla.org version 62.0
+1539336455546	addons.xpi	DEBUG	Calling bootstrap method startup on langpack-vi@firefox.mozilla.org version 62.0
+1539336455546	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/onboarding@mozilla.org.xpi
+1539336455547	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1539336455547	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/screenshots@mozilla.org.xpi
+1539336455548	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 33.0.0
+1539336455548	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat-reporter@mozilla.org.xpi
+1539336455548	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat-reporter@mozilla.org version 1.0.0
+1539336455548	addons.xpi	DEBUG	Registering manifest for /usr/lib/firefox/browser/features/webcompat@mozilla.org.xpi
+1539336455549	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 2.0
+1539336455552	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1539336455552	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1539336455552	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1539336455552	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1539336455552	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1539336455553	addons.manager	DEBUG	Starting provider: GMPProvider
+1539336455554	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1539336455554	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1539336455554	addons.manager	DEBUG	Starting provider: PluginProvider
+1539336455554	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1539336455554	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1539336455556	addons.manager	DEBUG	Completed startup sequence
+
+(firefox:8765): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8765): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1539336456413	addons.repository	DEBUG	No addons.json found.
+1539336457564	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on webcompat-reporter@mozilla.org in app-system-defaults
+1539336457564	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1539336457565	addons.xpi	DEBUG	Existing add-on langpack-en-CA@firefox.mozilla.org in app-global
+1539336457565	addons.xpi	DEBUG	Existing add-on langpack-en-GB@firefox.mozilla.org in app-global
+1539336457565	addons.xpi	DEBUG	Existing add-on langpack-vi@firefox.mozilla.org in app-global
+1539336457565	addons.xpi	DEBUG	Existing add-on langpack-en-ZA@firefox.mozilla.org in app-global
+1539336457565	addons.xpi	DEBUG	scanForChanges changed: false, state: {}
+1539336457807	Marionette	INFO	Listening on port 39871
+1539336457861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539336457908	Marionette	DEBUG	[2147483649] Frame script loaded
+1539336458157	Marionette	DEBUG	[2147483649] Frame script registered
+1539336458192	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1539336458245	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1539336458614	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://vtcc.ai/asr
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-127323561-1, line 74: unreachable code after return statement
+1539336460290	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1539336460293	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1539336460346	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://vtcc.ai/asr
+1539336466372	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 2.0
+1539336466373	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat-reporter@mozilla.org version 1.0.0
+1539336466373	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 33.0.0
+1539336466377	addons.xpi	DEBUG	Calling bootstrap method shutdown on onboarding@mozilla.org version 1.0
+1539336466377	addons.xpi	DEBUG	Calling bootstrap method shutdown on langpack-vi@firefox.mozilla.org version 62.0
+1539336466380	addons.xpi	DEBUG	Calling bootstrap method shutdown on langpack-en-ZA@firefox.mozilla.org version 62.0
+1539336466383	addons.xpi	DEBUG	Calling bootstrap method shutdown on langpack-en-GB@firefox.mozilla.org version 62.0
+1539336466386	addons.xpi	DEBUG	Calling bootstrap method shutdown on langpack-en-CA@firefox.mozilla.org version 62.0
+1539336466388	addons.xpi	DEBUG	Calling bootstrap method shutdown on formautofill@mozilla.org version 1.0
+1539336466389	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1539336466390	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1539336466390	addons.xpi	DEBUG	Calling bootstrap method shutdown on activity-stream@mozilla.org version 2018.08.22.1219-93becf29
+1539336466456	addons.manager	DEBUG	shutdown
+1539336466457	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1539336466457	addons.xpi	DEBUG	shutdown
+1539336466457	addons.xpi-utils	DEBUG	shutdown
+1539336466457	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1539336466457	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1539336466457	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1539336466461	addons.manager	DEBUG	Async provider shutdown done
+[Parent 8765, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1539336467052	Marionette	INFO	Stopped listening on port 39871
